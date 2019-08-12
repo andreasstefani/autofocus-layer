@@ -4,6 +4,8 @@
 
 This is a NiftyNet-based implementation of the autofocus convolutional layer [2]. The WNet implementation in NiftyNet [3][4] was adapted to a 3D WNet and tested with and without autofocus layers.
 
+![Image of 3D WNet with Autofocus Layers](https://github.com/andreasstefani/autofocus-layer/src/architecture.png)
+
 ## Citation
 
 If you find the code implemented here useful, please cite the paper:
