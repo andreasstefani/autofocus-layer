@@ -1,4 +1,4 @@
-# Autofocus-Net and Autofocus Layer
+# Autofocus Layer
 
 ## Introduction
 
